@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\studyC\11 도전\소스.c(4,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\studyC\11 도전\소스.c(4,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  11 도전.vcxproj -> C:\studyC\11 도전\x64\Debug\11 도전.exe

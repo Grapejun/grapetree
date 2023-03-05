@@ -1,0 +1,46 @@
+﻿  HonGong.c
+C:\studyC\18. 파일 입출력\HonGong.c(1,4): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(61,35): error C2054: '﻿' 다음에 '('가 필요합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(61,44): error C2085: 'uintptr_t': 정식 매개 변수 목록에 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(72,30): error C2085: 'va_list': 정식 매개 변수 목록에 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,36): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,36): error C2082: '__va_start' 정식 매개 변수 재정의
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,36): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vadefs.h(155,43): error C2059: 구문 오류: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2146: 구문 오류: ')'이(가) '_StackCookie' 식별자 앞에 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2061: 구문 오류: 식별자 '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2059: 구문 오류: ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,73): error C2059: 구문 오류: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2146: 구문 오류: ')'이(가) '_StackCookie' 식별자 앞에 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2061: 구문 오류: 식별자 '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2059: 구문 오류: ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,89): error C2059: 구문 오류: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(391,18): error C2061: 구문 오류: 식별자 '__security_cookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(391,18): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(354,10): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2146: 구문 오류: ')'이(가) '_Reserved' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2061: 구문 오류: 식별자 '_Reserved'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,35): error C2059: 구문 오류: ')'
+C:\studyC\18. 파일 입출력\HonGong.c(6,6): error C2065: 'FILE': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(6,11): error C2065: 'ifp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(6,18): error C2065: 'ofp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(6,13): error C2100: 간접 참조가 잘못되었습니다.
+C:\studyC\18. 파일 입출력\HonGong.c(10,6): error C2065: 'ifp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(10,8): warning C4013: 'fopen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\studyC\18. 파일 입출력\HonGong.c(11,10): error C2065: 'ifp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(11,17): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\studyC\18. 파일 입출력\HonGong.c(13,3): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\studyC\18. 파일 입출력\HonGong.c(17,6): error C2065: 'ofp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(18,10): error C2065: 'ofp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(18,17): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\studyC\18. 파일 입출력\HonGong.c(26,9): warning C4013: 'fgets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\studyC\18. 파일 입출력\HonGong.c(26,36): error C2065: 'ifp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(26,37): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\studyC\18. 파일 입출력\HonGong.c(32,3): warning C4013: 'fputs'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\studyC\18. 파일 입출력\HonGong.c(32,17): error C2065: 'ofp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(33,17): error C2065: 'ofp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(36,2): warning C4013: 'fclose'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\studyC\18. 파일 입출력\HonGong.c(36,12): error C2065: 'ifp': 선언되지 않은 식별자입니다.
+C:\studyC\18. 파일 입출력\HonGong.c(37,12): error C2065: 'ofp': 선언되지 않은 식별자입니다.

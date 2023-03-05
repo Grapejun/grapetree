@@ -1,0 +1,12 @@
+﻿'16 도전.exe'(Win32): 'C:\studyC\16 도전\x64\Debug\16 도전.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'16 도전.exe'(Win32): 'C:\Windows\System32\ntdll.dll'을(를) 로드했습니다. 
+'16 도전.exe'(Win32): 'C:\Windows\System32\kernel32.dll'을(를) 로드했습니다. 
+'16 도전.exe'(Win32): 'C:\Windows\System32\KernelBase.dll'을(를) 로드했습니다. 
+'16 도전.exe'(Win32): 'C:\Windows\System32\vcruntime140d.dll'을(를) 로드했습니다. 
+'16 도전.exe'(Win32): 'C:\Windows\System32\ucrtbased.dll'을(를) 로드했습니다. 
+0x3bf4 스레드가 종료되었습니다(코드: 0 (0x0)).
+'16 도전.exe'(Win32): 'C:\Windows\System32\kernel.appcore.dll'을(를) 로드했습니다. 
+'16 도전.exe'(Win32): 'C:\Windows\System32\msvcrt.dll'을(를) 로드했습니다. 
+0xc0dc 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x8a50 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[22748] 16 도전.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
